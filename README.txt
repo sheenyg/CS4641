@@ -3,7 +3,7 @@ CS 4641 HW 1
 Code Running Instrutions
 
 1. This code uses the scikit framework for Python 3.5. 
-Packages involved include
+Packages involved for files labelled "hw1" include
 sckikit, 
 numpy, 
 pandas, 
@@ -12,6 +12,13 @@ matplotlib,
 pyplot,
 and 
 dependencies that require installation before the code is run. 
+
+Packages invovled for files labelled "hw4" include
+sklearn.cluster,
+sklearn.mixture,
+sklearn.decomposition,
+sklearn.random_projection
+sknn.ae
 
 2. The datasets included are labelled "london_crime_by_lsoa.csv" and "geoplaces2.csv". They are read in for the user each time 
 a user calls one of the Python functions so long as the directory is correct (i.e. they are in the working directory). 
